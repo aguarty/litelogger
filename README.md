@@ -30,3 +30,10 @@ func (a *A) writelog(x string) {
 	a.l.Fatalf("Fatal - %v", x)
 }
 ```
+
+### Otput
+```
+ERROR: 2019/08/23 08:41:52.524012 main.go:29: Error - 4
+INFO: 2019/08/23 08:41:52.523619 main.go:27: info - 3
+DEBUG: 2019/08/23 08:41:52.524050 main.go:28: Debug - 3
+```

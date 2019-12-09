@@ -1,4 +1,4 @@
-# litelogger
+# litelogger [![Build Status](https://travis-ci.org/aguarty/litelogger.svg?branch=master)](https://travis-ci.org/aguarty/litelogger)
 Very simple and lite logger with levels
 
 ## example:
